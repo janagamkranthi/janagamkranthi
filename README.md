@@ -86,11 +86,10 @@ Currently building the open-source **[Infusion Center Intelligence Platform](htt
 ## 💻 Full Stack (.NET + React)
 
 ![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 ![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
 ![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Entity Framework](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
 ![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
@@ -102,9 +101,9 @@ Currently building the open-source **[Infusion Center Intelligence Platform](htt
 
 ## 🗄️ SQL, Data & Governance
 
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SQL Server](https://img.shields.io/badge/SQL%20Server-F2C811?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![Azure SQL](https://img.shields.io/badge/Azure%20SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
-![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![Power BI](https://img.shields.io/badge/Power%20BI-CC2927?style=flat&logo=powerbi&logoColor=white)
 ![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
 ![HIPAA](https://img.shields.io/badge/HIPAA%20Compliant-16A34A?style=flat)
