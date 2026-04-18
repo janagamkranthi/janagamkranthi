@@ -202,7 +202,3 @@ Currently building the open-source **[Infusion Center Intelligence Platform](htt
 - 🏅 Certificate of Excellence · Diabetescare4u
 
 ---
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=kranthijanagam&color=FF3621&style=flat" alt="Profile views"/>
-</p>
