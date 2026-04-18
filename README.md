@@ -30,7 +30,7 @@ an open-source, enterprise-grade reference architecture for healthcare data team
 | Governance | Unity Catalog, HIPAA column masking, Row-level security, Lineage |
 | AI Layer | ai_summarize(), ai_classify(), ai_extract(), ai_query() |
 | Serving | Databricks Lakebase (PostgreSQL/OLTP) + SQL Warehouse (analytics) |
-| Backend | .NET 8 Web API, C#, EF Core, Genie NLQ proxy |
+| Backend | .NET Web API, C#, EF Core, Genie NLQ proxy |
 | Frontend | React + TypeScript: Patient census, AR bucketing, CGO, Genie chat |
 | DevOps | Databricks Asset Bundles, GitHub Actions, Docker, Azure App Service |
 
@@ -59,8 +59,8 @@ Azure OpenAI · LangChain · Vector Search
 
 **Full Stack**
 ```
-.NET 8 · C# · EF Core · ASP.NET MVC · Web API
-React · TypeScript · Redux · Angular · SignalR
+.NET · C# · EF Core · ASP.NET MVC · Web API
+React · TypeScript · Redux · SignalR
 SQL Server · Entity Framework · OAuth2 · OpenID Connect
 ```
 
