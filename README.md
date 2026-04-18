@@ -1,6 +1,6 @@
 # Kranthi Kumar Janagam
 
-**Databricks DE Professional · Lakehouse Architect · Healthcare Data · .NET 8 + React**
+** Databricks Certified Professional · Lakehouse Architect · Unity Catalog · Healthcare Data · Full Stack (.NET · React) **
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kranthijanagam)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@kranthiJanagam)
@@ -11,7 +11,7 @@
 ## What I build
 
 I architect enterprise data platforms at the intersection of **Databricks Lakehouse**,
-**healthcare data governance**, and **full-stack engineering (.NET 8 + React)**.
+**healthcare data governance**, and **full-stack engineering (.NET + React)**.
 
 Currently building the **Infusion Center Intelligence Platform** —
 an open-source, enterprise-grade reference architecture for healthcare data teams.
