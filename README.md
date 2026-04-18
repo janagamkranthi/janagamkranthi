@@ -93,7 +93,7 @@ Docker · Azure App Service · Azure Functions · Cosmos DB
 
 ## Connect
 
-Based in **Fairfax, VA** | Open to **C2C contract** roles in DMV area
+
 Focus: Databricks · Azure data platforms · Healthcare data · Full-stack data apps
 
 [![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kranthijanagam)
