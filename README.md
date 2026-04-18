@@ -76,10 +76,10 @@ Docker · Azure App Service · Azure Functions · Cosmos DB
 
 | Certification | Issuer | Year |
 |--------------|--------|------|
-| Databricks Certified Data Engineer Professional | Databricks | 2024 |
-| Databricks Certified Data Engineer Associate | Databricks | 2023 |
-| UC Upgrade Delivery Specialization | Databricks | 2024 |
-| Microsoft Azure Data Fundamentals (DP-900) | Microsoft | 2022 |
+| Databricks Certified Data Engineer Professional | Databricks | 2026 |
+| Databricks Certified Data Engineer Associate | Databricks | 2024 |
+| UC Upgrade Delivery Specialization | Databricks | 2026 |
+| Microsoft Azure Data Fundamentals (DP-900) | Microsoft | 2025 |
 
 ---
 
