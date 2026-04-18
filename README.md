@@ -1,90 +1,209 @@
-# Kranthi Kumar Janagam
+<h1 align="center">Hi, I'm Kranthi Kumar Janagam 👋</h1>
 
-**Technical Lead · Databricks DE Professional · Full Stack Architect**
-**Healthcare Data · Azure · PySpark · .NET 8 · React · Unity Catalog**
+<p align="center">
+  <strong>Data Engineer Lead · Databricks Certified Professional · Full Stack Architect</strong><br>
+  Healthcare Data · Azure · PySpark · .NET · React · Unity Catalog · Delta Lake · ADF · SQL
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kranthijanagam)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@kranthiJanagam)
-[![Databricks DE Pro](https://img.shields.io/badge/Databricks-DE%20Professional-FF3621?style=flat&logo=databricks&logoColor=white)]()
-[![Azure Certified](https://img.shields.io/badge/Microsoft-Azure%20DP--900-0078D4?style=flat&logo=microsoftazure&logoColor=white)]()
-[![UC Specialization](https://img.shields.io/badge/Databricks-UC%20Upgrade%20Specialist-FF3621?style=flat&logo=databricks&logoColor=white)]()
-
-> 15+ years building enterprise data platforms · 5TB+ daily healthcare data · 70% pipeline speedup · HIPAA-compliant Lakehouse architect
-> Currently building: **Infusion Center Intelligence Platform** — open source · Databricks SA Champion candidate
+<p align="center">
+  <a href="https://linkedin.com/in/kranthijanagam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://medium.com/@kranthiJanagam"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Databricks-DE%20Professional-FF3621?style=flat&logo=databricks&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Databricks-DE%20Associate-FF3621?style=flat&logo=databricks&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Databricks-UC%20Upgrade%20Specialist-FF3621?style=flat&logo=databricks&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20DP--900-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>&nbsp;
+</p>
 
 ---
 
-## At a glance
+## About me
+
+> 15+ years building enterprise data platforms · 5TB+ daily healthcare data on Azure Databricks (Somatus & LivWell) · HIPAA-compliant Lakehouse architect · Led UCX migration across 5 workspaces with zero outages · Currently pursuing **Databricks Solution Architect Champion** designation
+
+I architect end-to-end data platforms from raw ingestion to production React dashboards. My rare combination: **Databricks Lakehouse engineering** + **HIPAA healthcare governance** + **full-stack .NET + React development**. Most practitioners only have one of these — I have all three, proven in production at 5TB+ daily scale.
+
+Currently building the open-source **[Infusion Center Intelligence Platform](https://github.com/kranthijanagam/infusion-center-platform)** — a complete reference architecture for healthcare data teams on Databricks.
+
+---
+
+## ⚡ Production impact
 
 | | | | |
-|---|---|---|---|
-| **15+ Years** Experience | **5TB+** Daily Data | **4** Databricks Certs | **70%** Pipeline Speedup |
-
-## Production impact
-
-| Metric | Result |
-|--------|--------|
-| Pipeline Runtime Reduction | **70%** via Spark tuning, Liquid Clustering, AQE |
-| Infrastructure Cost Savings | **20%** via cluster right-sizing + auto-scaling |
-| Data Onboarding Speed | **40%** faster via metadata-driven ADF framework |
-| Pipeline Reliability SLA | **99.9%** for mission-critical healthcare ingestion |
-| Data Sources Onboarded | **20+** healthcare sources with zero-code replication |
+|:---:|:---:|:---:|:---:|
+| **15+ Years** | **5TB+** | **70%** | **20%** |
+| Experience | Daily Healthcare Data | Pipeline Runtime Reduction | Infrastructure Cost Savings |
+| **40%** | **99.9%** | **20+** | **4** |
+| Faster Data Onboarding | Pipeline Reliability SLA | Healthcare Sources Onboarded | Databricks Certifications |
 
 ---
 
-## Technical skills
+## 🔶 Databricks Lakehouse
 
-### Databricks Lakehouse
-`Azure Databricks` `Delta Lake` `Delta Live Tables (DLT)` `Lakeflow Declarative Pipelines` `Unity Catalog` `Databricks Lakebase` `Medallion Architecture` `Liquid Clustering` `Deletion Vectors` `Databricks Asset Bundles` `AI/BI` `Genie NLQ` `AI Functions` `MLflow`
+![Azure Databricks](https://img.shields.io/badge/Azure%20Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat&logo=databricks&logoColor=white)
+![Delta Live Tables](https://img.shields.io/badge/Delta%20Live%20Tables-FF3621?style=flat&logo=databricks&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/Unity%20Catalog-FF3621?style=flat&logo=databricks&logoColor=white)
+![Lakebase](https://img.shields.io/badge/Lakebase-FF3621?style=flat&logo=databricks&logoColor=white)
+![AI/BI](https://img.shields.io/badge/AI%2FBI-FF3621?style=flat&logo=databricks&logoColor=white)
+![Asset Bundles](https://img.shields.io/badge/Asset%20Bundles%20(DAB)-FF3621?style=flat&logo=databricks&logoColor=white)
+![AI Functions](https://img.shields.io/badge/AI%20Functions-FF3621?style=flat&logo=databricks&logoColor=white)
 
-### Azure Cloud
-`Azure Data Factory (ADF)` `ADLS Gen2` `Azure SQL` `Azure Event Hubs` `Azure Functions` `Azure App Service` `Azure Monitor` `Azure DevOps` `Azure OpenAI` `Cosmos DB`
-
-### Big Data & Distributed Processing
-`Apache Spark` `PySpark` `Structured Streaming` `AQE` `Broadcast Joins` `Data Skew Handling` `CDC / CDF` `SCD Type 1 & 2` `Auto Loader` `Apache Kafka`
-
-### Full Stack Engineering
-`.NET 8 / C#` `ASP.NET MVC` `Web API / REST` `Entity Framework Core` `React + TypeScript` `Redux` `Angular` `SignalR` `OAuth2` `Docker` `GitHub Actions`
-
-### Data & SQL
-`SQL Server` `Azure SQL` `Delta Tables` `Python` `Power BI` `SSRS` `HIPAA / PHI Compliance` `HL7 / ADT / FHIR` `Healthcare RCM`
+`Medallion Architecture (Bronze/Silver/Gold)` `Liquid Clustering` `Deletion Vectors` `Lakeflow Declarative Pipelines` `UCX Migration (5 workspaces, zero outages)` `Vector Search` `Databricks Workflows` `Auto Loader`
 
 ---
 
-## Certifications
+## ☁️ Azure Cloud Platform
+
+![ADF](https://img.shields.io/badge/Azure%20Data%20Factory-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![ADLS Gen2](https://img.shields.io/badge/ADLS%20Gen2-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Event Hubs](https://img.shields.io/badge/Azure%20Event%20Hubs-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Azure Functions](https://img.shields.io/badge/Azure%20Functions-0062AD?style=flat&logo=azurefunctions&logoColor=white)
+![Azure DevOps](https://img.shields.io/badge/Azure%20DevOps-0078D4?style=flat&logo=azuredevops&logoColor=white)
+![Azure OpenAI](https://img.shields.io/badge/Azure%20OpenAI-0078D4?style=flat&logo=openai&logoColor=white)
+![Azure Monitor](https://img.shields.io/badge/Azure%20Monitor-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Cosmos DB](https://img.shields.io/badge/Cosmos%20DB-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Synapse](https://img.shields.io/badge/Azure%20Synapse-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Logic Apps](https://img.shields.io/badge/Logic%20Apps-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![Blob Storage](https://img.shields.io/badge/Blob%20Storage-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+
+`Metadata-driven ADF framework` `Dynamic Linked Services` `ForEach / Lookup activities` `Tumbling Window triggers` `Watermark-based incremental loads` `Zero-code replication (20+ sources)` `99.9% pipeline SLA`
+
+---
+
+## ⚡ Big Data & PySpark
+
+![Apache Spark](https://img.shields.io/badge/Apache%20Spark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Structured Streaming](https://img.shields.io/badge/Structured%20Streaming-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Kafka](https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+
+`AQE · Adaptive Query Execution` `Broadcast Joins` `Data Skew Handling & Salting` `CDC / Change Data Feed (CDF)` `SCD Type 1 & Type 2` `Delta MERGE operations` `Partitioning Strategies` `Cluster right-sizing` `Caching & file sizing`
+
+---
+
+## 💻 Full Stack (.NET + React)
+
+![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![ASP.NET MVC](https://img.shields.io/badge/ASP.NET%20MVC-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Entity Framework](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=flat&logo=dotnet&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat&logo=redux&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
+
+`REST APIs / Web API` `OAuth2 / OpenID Connect` `Enterprise SSO` `MCP Integration (.NET)` `Microservices` `Event-driven Architecture` `Real-time systems` `jQuery / Bootstrap`
+
+---
+
+## 🗄️ SQL, Data & Governance
+
+![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Azure SQL](https://img.shields.io/badge/Azure%20SQL-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat&logo=powerbi&logoColor=black)
+![SSRS](https://img.shields.io/badge/SSRS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![SSIS](https://img.shields.io/badge/SSIS-CC2927?style=flat&logo=microsoftsqlserver&logoColor=white)
+![HIPAA](https://img.shields.io/badge/HIPAA%20Compliant-16A34A?style=flat)
+
+`HIPAA / PHI Compliance` `Unity Catalog RBAC` `Data Lineage` `Column-level masking` `Row-level security` `HL7 / ADT / FHIR` `Healthcare RCM (AR/CGO/Write-offs)` `Semantic Models` `Stored procedures` `Query optimization` `Highcharts`
+
+---
+
+## 🚀 Featured projects
+
+### [🏥 infusion-center-platform](https://github.com/kranthijanagam/infusion-center-platform)
+
+> Enterprise healthcare data platform — Databricks Lakehouse + Lakebase + .NET 8 API + React clinical dashboard with Genie NLQ and full RCM analytics
+
+![Databricks](https://img.shields.io/badge/Databricks-FF3621?style=flat&logo=databricks&logoColor=white)
+![DLT](https://img.shields.io/badge/Delta%20Live%20Tables-FF3621?style=flat&logo=databricks&logoColor=white)
+![Unity Catalog](https://img.shields.io/badge/Unity%20Catalog-FF3621?style=flat&logo=databricks&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Azure](https://img.shields.io/badge/Azure-0078D4?style=flat&logo=microsoftazure&logoColor=white)
+![HIPAA](https://img.shields.io/badge/HIPAA-16A34A?style=flat)
+
+- Full Medallion Architecture (Bronze → Silver → Gold) with Delta Live Tables & Lakeflow Declarative Pipelines
+- HIPAA column masking + row-level security by care team via Unity Catalog
+- Databricks Lakebase (PostgreSQL OLTP) + SQL Warehouse dual serving layer
+- AI Functions: `ai_summarize()` `ai_classify()` `ai_extract()` `ai_query()`
+- Genie NLQ embedded in React clinical dashboard with AR bucketing, CGO, write-off analytics
+- SCD Type 1 & 2 + CDC/Change Data Feed data movement patterns
+
+---
+
+### [⚡ databricks-performance-patterns](https://github.com/kranthijanagam/databricks-performance-patterns)
+
+> 4 engineered Spark performance scenarios with before/after Spark UI screenshots
+
+![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)
+![Delta Lake](https://img.shields.io/badge/Delta%20Lake-00ADD8?style=flat&logo=databricks&logoColor=white)
+![AQE](https://img.shields.io/badge/AQE-FF3621?style=flat&logo=databricks&logoColor=white)
+
+| Scenario | Problem | Fix | Result |
+|----------|---------|-----|--------|
+| Data Skew | VIP patient hot partition | Salting + AQE skewJoin | **93% P99 task reduction** |
+| Small Files | 6,000 tasks per pipeline run | maxFilesPerTrigger + OPTIMIZE | **87% faster pipeline** |
+| Shuffle Explosion | 4-table AR bucketing join | Broadcast hint + AQE coalesce | **85% shuffle reduction** |
+| Clustering Benchmark | Full table scan (0% files skipped) | Z-Order → Liquid Clustering | **0% → 40% → 85% files skipped** |
+
+---
+
+### [🛡 unity-catalog-healthcare-governance](https://github.com/kranthijanagam/unity-catalog-healthcare-governance)
+
+> Production Unity Catalog templates for HIPAA-regulated healthcare environments
+
+![Unity Catalog](https://img.shields.io/badge/Unity%20Catalog-FF3621?style=flat&logo=databricks&logoColor=white)
+![HIPAA](https://img.shields.io/badge/HIPAA-16A34A?style=flat)
+
+- Column-level masking for PHI fields (name, DOB, SSN, address) by role
+- Row-level security — clinicians see only their care team's patients
+- End-to-end lineage: ADLS → Bronze → Silver → Gold → API call
+- Audit log queries on `system.access.audit`
+
+---
+
+### [🔗 dotnet-databricks-integration](https://github.com/kranthijanagam/dotnet-databricks-integration)
+
+> .NET 8 + EF Core reference patterns for Databricks Lakebase and SQL Warehouse
+
+![C#](https://img.shields.io/badge/C%23-239120?style=flat&logo=csharp&logoColor=white)
+![.NET 8](https://img.shields.io/badge/.NET%208-512BD4?style=flat&logo=dotnet&logoColor=white)
+![EF Core](https://img.shields.io/badge/Entity%20Framework%20Core-512BD4?style=flat&logo=dotnet&logoColor=white)
+
+- EF Core + Npgsql connection to Databricks Lakebase (PostgreSQL wire protocol)
+- SQL Warehouse HTTP connector for Gold layer analytics queries
+- Genie NLQ proxy controller in ASP.NET MVC
+- MLflow model score REST endpoint
+
+---
+
+## 🏅 Certifications
 
 | Certification | Issuer | Year |
 |---|---|---|
-| Databricks Certified Data Engineer Professional | Databricks | 2024 |
-| Databricks Certified Data Engineer Associate | Databricks | 2023 |
-| UC Upgrade Delivery Specialization | Databricks Partner | 2024 |
-| Microsoft Azure Data Fundamentals (DP-900) | Microsoft | 2022 |
+| ✅ Databricks Certified Data Engineer Professional | Databricks | 2026 |
+| ✅ Databricks Certified Data Engineer Associate | Databricks | 2024 |
+| ✅ UC Upgrade Delivery Specialization | Databricks Partner | 2026 |
+| ✅ Microsoft Azure Data Fundamentals DP-900 | Microsoft | 2025 |
+
 
 ---
 
-## Featured projects
+## 🏆 Awards & Recognition
 
-### [infusion-center-platform](https://github.com/kranthijanagam/infusion-center-platform)
-Enterprise healthcare data platform — Databricks Lakehouse + Lakebase + .NET 8 API + React. Full RCM analytics with Genie NLQ, HIPAA governance, and 4 documented performance engineering scenarios.
-
-`Databricks` `DLT` `Unity Catalog` `Azure` `.NET 8` `React` `PySpark` `HIPAA`
-
-### [databricks-performance-patterns](https://github.com/kranthijanagam/databricks-performance-patterns)
-4 engineered Spark performance scenarios with Spark UI screenshots: data skew fix (93%), small files speedup (87%), shuffle reduction (85%), Liquid Clustering benchmark (85% files skipped).
-
-`PySpark` `AQE` `Liquid Clustering` `Delta Lake` `Spark UI`
-
-### [unity-catalog-healthcare-governance](https://github.com/kranthijanagam/unity-catalog-healthcare-governance)
-HIPAA column masking, row-level security by care team, end-to-end lineage, audit log queries. Reusable templates for regulated healthcare environments.
-
-`Unity Catalog` `HIPAA` `RBAC` `Lineage` `Python` `SQL`
-
-### [dotnet-databricks-integration](https://github.com/kranthijanagam/dotnet-databricks-integration)
-.NET 8 + EF Core patterns for Databricks Lakebase (Npgsql) and SQL Warehouse (ODBC). Full API scaffold, Genie NLQ proxy, MLflow endpoint. Reference for full-stack data engineers.
-
-`.NET 8` `EF Core` `Lakebase` `REST API` `C#`
+- 🥇 Most Valuable Performer — Individual · eSolutionsFirst
+- 🥉 4× MVP Bronze — Team · Cyient
+- 🥉 2× MVP Bronze — Individual · Cyient
+- 🏅 Certificate of Excellence · Pratt & Whitney
+- 🏅 Certificate of Excellence · Diabetescare4u
 
 ---
 
-**Based in Fairfax, VA · Open to C2C contract · DMV area**
-*Databricks SA Champion candidate · April 2026*
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=kranthijanagam&color=FF3621&style=flat" alt="Profile views"/>
+</p>
