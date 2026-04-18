@@ -1,99 +1,90 @@
 # Kranthi Kumar Janagam
 
-** Databricks Certified Professional · Lakehouse Architect · Unity Catalog · Healthcare Data · Full Stack (.NET · React) **
+**Technical Lead · Databricks DE Professional · Full Stack Architect**
+**Healthcare Data · Azure · PySpark · .NET 8 · React · Unity Catalog**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kranthijanagam)
 [![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@kranthiJanagam)
-[![Databricks](https://img.shields.io/badge/Databricks-DE%20Professional-FF3621?style=flat&logo=databricks&logoColor=white)]()
+[![Databricks DE Pro](https://img.shields.io/badge/Databricks-DE%20Professional-FF3621?style=flat&logo=databricks&logoColor=white)]()
+[![Azure Certified](https://img.shields.io/badge/Microsoft-Azure%20DP--900-0078D4?style=flat&logo=microsoftazure&logoColor=white)]()
+[![UC Specialization](https://img.shields.io/badge/Databricks-UC%20Upgrade%20Specialist-FF3621?style=flat&logo=databricks&logoColor=white)]()
+
+> 15+ years building enterprise data platforms · 5TB+ daily healthcare data · 70% pipeline speedup · HIPAA-compliant Lakehouse architect
+> Currently building: **Infusion Center Intelligence Platform** — open source · Databricks SA Champion candidate
 
 ---
 
-## What I build
+## At a glance
 
-I architect enterprise data platforms at the intersection of **Databricks Lakehouse**,
-**healthcare data governance**, and **full-stack engineering (.NET + React)**.
+| | | | |
+|---|---|---|---|
+| **15+ Years** Experience | **5TB+** Daily Data | **4** Databricks Certs | **70%** Pipeline Speedup |
 
-Currently building the **Infusion Center Intelligence Platform** —
-an open-source, enterprise-grade reference architecture for healthcare data teams.
+## Production impact
 
----
-
-## Featured project
-
-### Infusion Center Intelligence Platform
-> Enterprise Databricks Lakehouse + Lakebase + .NET 8 API + React clinical dashboard
-
-| Layer | Technology |
-|-------|-----------|
-| Ingestion | Auto Loader, Structured Streaming, Synthea synthetic data |
-| Pipeline | Delta Live Tables (Bronze > Silver > Gold), DLT expectations |
-| Governance | Unity Catalog, HIPAA column masking, Row-level security, Lineage |
-| AI Layer | ai_summarize(), ai_classify(), ai_extract(), ai_query() |
-| Serving | Databricks Lakebase (PostgreSQL/OLTP) + SQL Warehouse (analytics) |
-| Backend | .NET Web API, C#, EF Core, Genie NLQ proxy |
-| Frontend | React + TypeScript: Patient census, AR bucketing, CGO, Genie chat |
-| DevOps | Databricks Asset Bundles, GitHub Actions, Docker, Azure App Service |
-
-**Performance scenarios documented with before/after Spark UI screenshots:**
-- Data skew on patient_id — 93% straggler task reduction (salting + AQE)
-- Small file explosion — 87% pipeline speedup (Auto Loader batching + Liquid Clustering)
-- AR bucketing shuffle — 85% shuffle reduction (broadcast join + AQE coalescing)
-- Liquid Clustering vs Z-Order — 85% vs 40% files skipped benchmark
+| Metric | Result |
+|--------|--------|
+| Pipeline Runtime Reduction | **70%** via Spark tuning, Liquid Clustering, AQE |
+| Infrastructure Cost Savings | **20%** via cluster right-sizing + auto-scaling |
+| Data Onboarding Speed | **40%** faster via metadata-driven ADF framework |
+| Pipeline Reliability SLA | **99.9%** for mission-critical healthcare ingestion |
+| Data Sources Onboarded | **20+** healthcare sources with zero-code replication |
 
 ---
 
-## Core stack
+## Technical skills
 
-**Data Engineering**
-```
-Azure Databricks · Delta Lake · Delta Live Tables · Unity Catalog
-PySpark · Structured Streaming · Lakeflow · ADF · ADLS Gen2
-Liquid Clustering · AQE · Broadcast Joins · CDC/CDF · SCD1/SCD2
-```
+### Databricks Lakehouse
+`Azure Databricks` `Delta Lake` `Delta Live Tables (DLT)` `Lakeflow Declarative Pipelines` `Unity Catalog` `Databricks Lakebase` `Medallion Architecture` `Liquid Clustering` `Deletion Vectors` `Databricks Asset Bundles` `AI/BI` `Genie NLQ` `AI Functions` `MLflow`
 
-**AI & Analytics**
-```
-Databricks AI Functions · Genie · MLflow · AI/BI · Power BI
-Azure OpenAI · LangChain · Vector Search
-```
+### Azure Cloud
+`Azure Data Factory (ADF)` `ADLS Gen2` `Azure SQL` `Azure Event Hubs` `Azure Functions` `Azure App Service` `Azure Monitor` `Azure DevOps` `Azure OpenAI` `Cosmos DB`
 
-**Full Stack**
-```
-.NET · C# · EF Core · ASP.NET MVC · Web API
-React · TypeScript · Redux · SignalR
-SQL Server · Entity Framework · OAuth2 · OpenID Connect
-```
+### Big Data & Distributed Processing
+`Apache Spark` `PySpark` `Structured Streaming` `AQE` `Broadcast Joins` `Data Skew Handling` `CDC / CDF` `SCD Type 1 & 2` `Auto Loader` `Apache Kafka`
 
-**DevOps & Cloud**
-```
-Azure DevOps · GitHub Actions · Databricks Asset Bundles (DAB)
-Docker · Azure App Service · Azure Functions · Cosmos DB
-```
+### Full Stack Engineering
+`.NET 8 / C#` `ASP.NET MVC` `Web API / REST` `Entity Framework Core` `React + TypeScript` `Redux` `Angular` `SignalR` `OAuth2` `Docker` `GitHub Actions`
+
+### Data & SQL
+`SQL Server` `Azure SQL` `Delta Tables` `Python` `Power BI` `SSRS` `HIPAA / PHI Compliance` `HL7 / ADT / FHIR` `Healthcare RCM`
 
 ---
 
 ## Certifications
 
 | Certification | Issuer | Year |
-|--------------|--------|------|
-| Databricks Certified Data Engineer Professional | Databricks | 2026 |
-| Databricks Certified Data Engineer Associate | Databricks | 2024 |
-| UC Upgrade Delivery Specialization | Databricks | 2026 |
-| Microsoft Azure Data Fundamentals (DP-900) | Microsoft | 2025 |
+|---|---|---|
+| Databricks Certified Data Engineer Professional | Databricks | 2024 |
+| Databricks Certified Data Engineer Associate | Databricks | 2023 |
+| UC Upgrade Delivery Specialization | Databricks Partner | 2024 |
+| Microsoft Azure Data Fundamentals (DP-900) | Microsoft | 2022 |
 
 ---
 
-## Healthcare domain expertise
+## Featured projects
 
-10+ years building HIPAA-compliant data platforms for healthcare clients:
-**HL7 / ADT · Claims processing · Patient & provider dimensions · RCM analytics**
-**(AR bucketing · CGO · write-offs · denial management) · LIMS · Billing systems**
+### [infusion-center-platform](https://github.com/kranthijanagam/infusion-center-platform)
+Enterprise healthcare data platform — Databricks Lakehouse + Lakebase + .NET 8 API + React. Full RCM analytics with Genie NLQ, HIPAA governance, and 4 documented performance engineering scenarios.
+
+`Databricks` `DLT` `Unity Catalog` `Azure` `.NET 8` `React` `PySpark` `HIPAA`
+
+### [databricks-performance-patterns](https://github.com/kranthijanagam/databricks-performance-patterns)
+4 engineered Spark performance scenarios with Spark UI screenshots: data skew fix (93%), small files speedup (87%), shuffle reduction (85%), Liquid Clustering benchmark (85% files skipped).
+
+`PySpark` `AQE` `Liquid Clustering` `Delta Lake` `Spark UI`
+
+### [unity-catalog-healthcare-governance](https://github.com/kranthijanagam/unity-catalog-healthcare-governance)
+HIPAA column masking, row-level security by care team, end-to-end lineage, audit log queries. Reusable templates for regulated healthcare environments.
+
+`Unity Catalog` `HIPAA` `RBAC` `Lineage` `Python` `SQL`
+
+### [dotnet-databricks-integration](https://github.com/kranthijanagam/dotnet-databricks-integration)
+.NET 8 + EF Core patterns for Databricks Lakebase (Npgsql) and SQL Warehouse (ODBC). Full API scaffold, Genie NLQ proxy, MLflow endpoint. Reference for full-stack data engineers.
+
+`.NET 8` `EF Core` `Lakebase` `REST API` `C#`
 
 ---
 
-## Connect
-
-
-Focus: Databricks · Azure data platforms · Healthcare data · Full-stack data apps
-
-[![LinkedIn](https://img.shields.io/badge/Let's%20connect-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/kranthijanagam)
+**Based in Fairfax, VA · Open to C2C contract · DMV area**
+*Databricks SA Champion candidate · April 2026*
