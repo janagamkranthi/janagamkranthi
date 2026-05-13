@@ -2,10 +2,14 @@
 
 **Data Engineer Lead · Azure Databricks · Healthcare Data Platforms · Full Stack**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/kranthijanagam)
-[![Medium](https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white)](https://medium.com/@kranthiJanagam)
-[![Databricks DE Professional](https://img.shields.io/badge/Databricks-DE%20Professional-FF3621?style=flat&logo=databricks&logoColor=white)]()
-[![Azure DP-900](https://img.shields.io/badge/Microsoft-Azure%20DP--900-0078D4?style=flat&logo=microsoftazure&logoColor=white)]()
+<p align="center">
+  <a href="https://linkedin.com/in/kranthijanagam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
+  <a href="https://medium.com/@kranthiJanagam"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"/></a>&nbsp;
+  <img src="https://img.shields.io/badge/Databricks-DE%20Professional-FF3621?style=flat&logo=databricks&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Databricks-DE%20Associate-FF3621?style=flat&logo=databricks&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Databricks-UC%20Upgrade%20Specialist-FF3621?style=flat&logo=databricks&logoColor=white"/>&nbsp;
+  <img src="https://img.shields.io/badge/Microsoft-Azure%20DP--900-0078D4?style=flat&logo=microsoftazure&logoColor=white"/>&nbsp;
+</p>
 
 ---
 
