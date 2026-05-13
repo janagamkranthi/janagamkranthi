@@ -66,7 +66,7 @@ data teams using Databricks Lakehouse + Lakebase + .NET 8 + React.
 `GitHub Actions` `Azure DevOps` `Databricks Asset Bundles`
 
 **Languages & Frameworks**  
-`Python` `PySpark` `SQL` `C#` `.NET 8` `TypeScript` `React` `JavaScript`
+`Python` `PySpark` `SQL` `C#` `.NET 8` `React` `JavaScript`
 
 **Data Governance & Compliance**  
 `HIPAA / PHI Compliance` `Column-level Masking` `Row-level Security`  
