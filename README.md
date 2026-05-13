@@ -46,12 +46,15 @@ data teams using Databricks Lakehouse + Lakebase + .NET 8 + React.
 
 ---
 
-## Certifications
+## 🏅 Certifications
 
-- ✅ Databricks Certified Data Engineer Professional — 2026  
-- ✅ Databricks Certified Data Engineer Associate — 2024  
-- ✅ UC Upgrade Delivery Specialization — 2026  
-- ✅ Microsoft Azure Data Fundamentals DP-900 — 2025  
+| Certification | Issuer | Year |
+|---|---|---|
+| ✅ Databricks Certified Data Engineer Professional | Databricks | 2026 |
+| ✅ Databricks Certified Data Engineer Associate | Databricks | 2024 |
+| ✅ UC Upgrade Delivery Specialization | Databricks Partner | 2026 |
+| ✅ Microsoft Azure Data Fundamentals DP-900 | Microsoft | 2025 |
+
 
 ---
 
