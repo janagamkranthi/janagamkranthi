@@ -2,7 +2,7 @@
 
 **Data Engineer Lead · Azure Databricks · Healthcare Data Platforms · Full Stack**
 
-<p align="center">
+<p align="left">
   <a href="https://linkedin.com/in/kranthijanagam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
   <a href="https://medium.com/@kranthiJanagam"><img src="https://img.shields.io/badge/Medium-000000?style=flat&logo=medium&logoColor=white"/></a>&nbsp;
   <img src="https://img.shields.io/badge/Databricks-DE%20Professional-FF3621?style=flat&logo=databricks&logoColor=white"/>&nbsp;
