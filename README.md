@@ -22,8 +22,6 @@ My work spans the full stack — from raw data ingestion and HIPAA-compliant Lak
 architecture to .NET 8 APIs and React dashboards. I specialize in Delta Live Tables, 
 Unity Catalog governance, PySpark performance engineering, and GenAI on Databricks.
 
-Currently building **InfusionIQ** — an open-source reference platform for healthcare 
-data teams using Databricks Lakehouse + Lakebase + .NET 8 + React.
 
 ---
 
