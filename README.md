@@ -1,6 +1,6 @@
 # Hi, I'm Kranthi Kumar Janagam 👋
 
-**Data Engineer Lead · Azure Databricks · Healthcare Data Platforms · Full Stack**
+**Data Engineer Lead · Azure Databricks · Healthcare Data Platforms · Full Stack (React, .Net) **
 
 <p align="left">
   <a href="https://linkedin.com/in/kranthijanagam"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white"/></a>&nbsp;
