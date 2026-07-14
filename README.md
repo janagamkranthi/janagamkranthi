@@ -30,7 +30,7 @@ Unity Catalog governance, PySpark performance engineering, and GenAI on Databric
 - **Lakehouse Pipelines** — Delta Live Tables, Auto Loader, SCD Type 1/2, CDC patterns
 - **HIPAA Governance** — Unity Catalog column masking, row-level security, PHI controls  
 - **GenAI on Databricks** — RAG, Vector Search, MLflow model serving, AI Functions  
-- **Full Stack APIs** — .NET 8 Web API + React/TypeScript over Gold layer data  
+- **Full Stack APIs** — .NET 8 Web API + React/JavaScript over Gold layer data  
 - **CI/CD** — Databricks Asset Bundles (DAB) + GitHub Actions  
 
 ---
